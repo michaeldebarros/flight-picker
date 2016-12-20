@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import FormInfo from './components/Form';
+import Form from './components/Form';
 
 
-ReactDOM.render(<FormInfo />, document.getElementById('app'));
+ReactDOM.render(<Form />, document.getElementById('app'));
